@@ -1,4 +1,4 @@
-Prueba tecnca para Junios y Trainees de React
+Prueba tecnica para Juniors y Trainees de React
 
 APIS:
 
