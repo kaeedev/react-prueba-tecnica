@@ -8,5 +8,5 @@ APIS:
 
 
 1. Recupera un fact random de gatos de la primera API
-2. Recuperar la primera palabra del fact
+2. Recuperar las tres primeras palabras del fact
 3. Muestra una imagen de un gato con las primeras 3 palabras del fact recuperado usando la segunda API
